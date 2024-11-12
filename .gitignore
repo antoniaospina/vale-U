@@ -1,0 +1,17 @@
+# Ignorar carpetas del sistema
+AppData/
+Cookies/
+Datos de programa/
+Entorno de red/
+Impresoras/
+Menú Inicio/
+Mis documentos/
+Plantillas/
+Reciente/
+SendTo/
+OneDrive/
+
+# Ignorar archivos específicos de configuración
+.bash_history
+.gitconfig
+NTUSER.DAT
